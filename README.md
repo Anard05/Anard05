@@ -4,4 +4,7 @@
 - estou me desenvolvendo na linguagem javaScript 
 
 
-![](https://media1.tenor.com/m/qoDMHLbo0pQAAAAd/omgsmdb.gif)
+![](https://media1.tenor.com/m/qoDMHLbo0pQAAAAd/omgsmdb.gif
+)
+
+https://media1.tenor.com/m/qoDMHLbo0pQAAAAd/omgsmdb.gif
